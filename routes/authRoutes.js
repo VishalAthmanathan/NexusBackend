@@ -16,7 +16,8 @@ router.use(
     cors({
         credentials: true,
         // origin: 'https://www.zorphix.live'
-        origin: 'http://localhost:3000'
+        // origin: 'http://localhost:3000'
+        origin: 'https://nexus-frontend-azure.vercel.app/'
     })
 )
 
