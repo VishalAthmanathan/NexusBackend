@@ -17,7 +17,7 @@ router.use(
         credentials: true,
         // origin: 'https://www.zorphix.live'
         // origin: 'http://localhost:3000'
-        origin: 'https://nexus-frontend-azure.vercel.app/'
+        origin: 'https://nexus-frontend-azure.vercel.app'
     })
 )
 
